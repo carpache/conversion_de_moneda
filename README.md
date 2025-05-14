@@ -28,8 +28,8 @@ Se creo el programa en base a las API de conversion de moneda que se encuetra en
  la clase convertidordeMoneda 
  es donde se crea las variables :
 
- cantidad-                                                                                                 
- cantidadConvertir cada una en variable DOUBLE
+ -cantidad                                                                                                
+ -cantidadConvertir cada una en variable DOUBLE
 CON LA FURMULA FINAL DE CONVERSION 
 
 
